@@ -1,48 +1,48 @@
 body {
-    font-family: Arial, sans-serif; /* Mengubah font family */
-    font-size: 16px; /* Mengubah ukuran font */
-    line-height: 1.5; /* Mengatur jarak antar baris */
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.5;
 }
 
 h1, h2, h3 {
-    text-align: center; /* Menengahkan heading */
+    text-align: center; 
 }
 
-/* Text Styling */
+
 a {
-    color: #007bff; /* Mengubah warna link */
-    text-decoration: none; /* Menghapus garis bawah pada link */
+    color: #007bff; 
+    text-decoration: none; 
 }
 
 p {
-    margin-bottom: 20px; /* Memberi jarak antar paragraf */
+    margin-bottom: 20px; 
 }
 
-/* Background */
+
 body {
-    background-color: lightblue; /* Mengatur warna background */
+    background-color: lightblue;
 }
 
 #header, #footer {
-    background-color: #333; /* Mengatur warna header dan footer */
-    color: white; /* Mengubah warna teks header dan footer */
-    padding: 20px; /* Memberi padding */
+    background-color: #333; 
+    color: white; 
+    padding: 20px; 
 }
 
-/* Styling Section */
+
 section {
-    padding: 20px; /* Memberi padding pada section */
-    border: 1px solid #ddd; /* Memberi border pada section */
-    margin-bottom: 20px; /* Memberi jarak antar section */
+    padding: 20px;
+    border: 1px solid #ddd; 
+    margin-bottom: 20px; 
 }
 
-/* Styling Image */
+
 .gallery img {
-    width: 30%; /* Mengatur lebar gambar */
-    margin: 10px; /* Memberi margin antar gambar */
+    width: 30%;
+    margin: 10px; 
 }
 
-/* Styling Form */
+
 #contact form {
     width: 50%;
     margin: 0 auto;
